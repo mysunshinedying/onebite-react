@@ -1,12 +1,10 @@
 import './App.css'
-import Bulb from "./components/Bulb.jsx";
-import Counter from "./components/Counter.jsx";
+import HookExam from "./components/HookExam.jsx";
 
 function App() {
     return (
         <>
-            <Bulb/>
-            <Counter/>
+            <HookExam/>
         </>
     )
 }
